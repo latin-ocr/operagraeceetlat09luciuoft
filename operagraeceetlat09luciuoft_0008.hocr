@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operagraeceetlat09luciuoft/operagraeceetlat09luciuoft_0008.png"; bbox 0 0 1907 3101; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 193 0 329 223">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 193 0 329 223">
+     <span class='ocr_line' id='line_1_1' title="bbox 193 0 258 223; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 218 174 258 223; x_wconf 50' lang='lat' dir='ltr'>,s</span> <span class='ocrx_word' id='word_1_2' title='bbox 213 55 251 116; x_wconf 59' lang='lat'>15⁹⁴-</span> <span class='ocrx_word' id='word_1_3' title='bbox 193 0 237 26; x_wconf 68' lang='lat'>3:</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 300 92 329 151; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 300 138 329 151; x_wconf 45' lang='grc' dir='ltr'>ἶ</span> <span class='ocrx_word' id='word_1_5' title='bbox 302 92 309 97; x_wconf 88' lang='grc'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 254 1808 1018 2314">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 254 1808 1018 2314">
+     <span class='ocr_line' id='line_1_3' title="bbox 254 1808 1018 2314; baseline 0 787"><span class='ocrx_word' id='word_1_6' title='bbox 254 1808 1018 2314; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
